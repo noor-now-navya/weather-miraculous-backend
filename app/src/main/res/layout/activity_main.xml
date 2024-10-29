@@ -8,7 +8,6 @@
     android:background="@drawable/ladybug3"
     tools:context=".MainActivity">
 
-
     <SearchView
         android:id="@+id/searchView"
         android:layout_width="0dp"
