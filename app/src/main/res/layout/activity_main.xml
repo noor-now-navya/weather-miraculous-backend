@@ -8,6 +8,7 @@
     android:background="@drawable/ladybug3"
     tools:context=".MainActivity">
 
+
     <SearchView
         android:id="@+id/searchView"
         android:layout_width="0dp"
@@ -40,7 +41,7 @@
         android:layout_width="179dp"
         android:layout_height="61dp"
         android:layout_marginTop="12dp"
-        android:text="00:00°C"
+        android:text="00.0°C"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="50sp"
